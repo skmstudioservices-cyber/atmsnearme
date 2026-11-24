@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atmsnearme.pages.dev/sitemap.xml
